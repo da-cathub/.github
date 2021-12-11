@@ -2,7 +2,7 @@
 
 We are **CatHub**, your place to go for cat photos and happiness with cattos.
 
-Started in October of 2020 as silly little project as a static website hosted on Netlify, now we are hosted in Bratislava, Slovakia :flag_sk:
+Started in October of 2020 as silly little project as a static website hosted on Netlify, now we are hosted in Bratislava, Slovakia :slovakia:
 
 > ### Some Links :arrow_heading_down:
 > 
@@ -10,7 +10,7 @@ Started in October of 2020 as silly little project as a static website hosted on
 > 
 > :electric_plug: API • [`api.cathub.space`](https://api.cathub.space)
 >
-> :speech_left: Community on Discord • [`discord.gg/t3RWpZFC3H`](https://discord.gg/t3RWpZFC3H)
+> :left_speech_bubble: Community on Discord • [`discord.gg/t3RWpZFC3H`](https://discord.gg/t3RWpZFC3H)
 > 
 > :symbols: Discord Bot • [`top.gg/bot/899724076199854210`](https://top.gg/bot/899724076199854210)
 
