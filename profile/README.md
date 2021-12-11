@@ -7,8 +7,11 @@ Started in October of 2020 as silly little project as a static website hosted on
 > ### Some Links ⬇
 > 
 >  Our homepage • [`cathub.space`](https://cathub.space/?f=github-org-readme)
+> 
 > ⌨ API • [`api.cathub.space`](https://api.cathub.space)
+>
 >  Community on Discord • [``]()
+> 
 > * Discord Bot • []()
 
 <!--
