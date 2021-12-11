@@ -16,6 +16,6 @@ Started in October of 2020 as silly little project as a static website hosted on
 
 ### Status
 
-| `cathub.space` Main site • Blackie | ![status](https://shields.io/uptimerobot/status/m789048728-2fe8e507d80cd15c998bf30c) |
+| `cathub.space` Main site • Blackie | ![Status NOW](https://shields.io/uptimerobot/status/m789048728-2fe8e507d80cd15c998bf30c) ![Uptime for the last 7 Days](https://shields.io/uptimerobot/ratio/7/m789048728-2fe8e507d80cd15c998bf30c) |
 | --- | ---------- |
 | :arrow_forward: | Full status page [`status.cathub.space`](https://status.cathub.space)
