@@ -14,3 +14,8 @@ Started in October of 2020 as silly little project as a static website hosted on
 > 
 > :symbols: Discord Bot • [`top.gg/bot/899724076199854210`](https://top.gg/bot/899724076199854210)
 
+### Status
+
+| `cathub.space` Main site • Blackie | ![status](https://shields.io/uptimerobot/status/789048728) |
+| --- | ---------- |
+| :arrow_forward: | Full status page [`status.cathub.space`](https://status.cathub.space)
