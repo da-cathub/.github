@@ -6,7 +6,7 @@ Started in October of 2020 as silly little project as a static website hosted on
 
 > ### Some Links :arrow_heading_down:
 > 
-> :house_with_garden: Our homepage • [`cathub.space`](https://cathub.space/?f=github-org-readme)
+> :house_with_garden: Our homepage • [`cathub.space`](https://cathub.space/?utm_medium=github-org-readme)
 > 
 > :electric_plug: API • [`api.cathub.space`](https://api.cathub.space)
 >
