@@ -1,4 +1,4 @@
-## 🐈‍⬛ Meow there!
+## [![Happy_Cat](https://emoji.gg/assets/emoji/5402-happy-cat.gif)](https://emoji.gg/emoji/5402-happy-cat) Meow there!
 
 We are **CatHub**, your place to go for cat photos and happiness with cattos.
 
