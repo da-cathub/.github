@@ -1,4 +1,4 @@
-## Meow there!
+## 🐈‍⬛ Meow there!
 
 We are **CatHub**, your place to go for cat photos and happiness with cattos.
 
